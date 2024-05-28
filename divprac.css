@@ -1,0 +1,77 @@
+.main{
+    border: solid 2px black;
+    padding: 20px;
+}
+.row1{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.yellow{
+    width: 150px;
+    height: 150px;
+    background-color: yellow;
+}
+.green{
+    width: 150px;
+    height: 150px;
+    background-color: green;
+}
+.orange{
+    width: 150px;
+    height: 150px;
+    background-color: orange;
+}
+.row2{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 20px;    
+}
+.pink{
+    width: 150px;
+    height: 150px;
+    background-color: pink; 
+}
+.black{
+    width: 150px;
+    height: 150px;
+    background-color: black;
+}
+.row3{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 20px; 
+}
+.aqua{
+    width: 150px;
+    height: 150px;
+    background-color: aqua;
+}
+.row4{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 20px;  
+}
+.red{
+    width: 150px;
+    height: 150px;
+    background-color:red; 
+}
+.purpule{
+    width: 150px;
+    height: 150px;
+    background-color: purple;
+}
+.x{
+    width: 150px;
+    height: 150px;
+    background-color: gray;
+}
+.y{
+    width: 150px;
+    height: 150px;
+    background-color: skyblue;
+}
